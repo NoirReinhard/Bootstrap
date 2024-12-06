@@ -1,0 +1,26 @@
+*{
+    font-family: montserrat;
+}
+.na{
+    background-color: burlywood;
+}
+.padding{
+    padding:90px;
+}
+#work{
+    vertical-align: center;
+    display: flex;
+    align-items: center;
+}
+#nav{
+    position: sticky;
+    padding: 12px;
+    top: 0;
+    z-index: 10;
+}
+#card{
+    display: flex;
+    justify-content: space-between;
+    width: 100.5%;
+    gap:10px;
+}
